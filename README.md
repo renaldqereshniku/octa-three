@@ -1,3 +1,1 @@
-# octa-three
-
-A visual representation
+concept art
