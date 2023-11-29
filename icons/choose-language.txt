@@ -1,3 +1,4 @@
-// English // French // Spanish
-// Anglais // Francais // Espagnol
-// Ingles // Frances // Espanol
+// English // French // Spanish // Chinese
+// Anglais // Francais // Espagnol // Chinois
+// Ingles // Frances // Espanol // Chino
+// 英語 // 法語 // 西班牙語 // 中國人
