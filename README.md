@@ -1,3 +1,3 @@
 # Agreement
 
-One to eight is a fundamental sequence.
+It starts on one.
