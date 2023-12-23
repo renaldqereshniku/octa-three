@@ -1,3 +1,1 @@
-# Agreement
-
-It starts on one.
+It starts on one
